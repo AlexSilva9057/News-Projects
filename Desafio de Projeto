@@ -1,0 +1,186 @@
+<html>
+  <head>
+    <title>Meu Primeiro HTML</title>
+  </head>
+  <body>
+    <h1>
+      <i
+        ><u>Meu Primeiro <strong>HTML</strong></u></i
+      >
+    </h1>
+    <ol>
+      <li>
+        <u
+          ><a
+            href="https://github.com/AlexSilva9057?tab=repositories"
+            title="clique aqui e confira"
+            target="_blank"
+            >Projeto de código</a
+          ></u
+        >
+      </li>
+      <li>
+        <u
+          ><a
+            href="https://www.apple.com/br/"
+            title="clique aqui e confira"
+            target="_blank"
+            >Apple</a
+          ></u
+        >
+        <ul>
+          <li>
+            <u
+              ><a
+                href="https://www.apple.com/br/mac/"
+                title="clique aqui e confira"
+                target="_blank"
+                >Mac</a
+              ></u
+            >
+          </li>
+          <li>
+            <u
+              ><a
+                href="https://www.apple.com/br/ipad/"
+                title="clique aqui e confira"
+                target="_blank"
+                >iPad</a
+              ></u
+            >
+          </li>
+          <li>
+            <u
+              ><a
+                href="https://www.apple.com/br/iphone/"
+                title="clique aqui e confira"
+                target="_blank"
+                >iPhone</a
+              ></u
+            >
+          </li>
+        </ul>
+      </li>
+      <li>
+        <u
+          ><a
+            href="https://www.microsoft.com/pt-br"
+            title="clique aqui e confira"
+            target="_blank"
+            >Microsoft</a
+          ></u
+        >
+      </li>
+      <li>
+        <u
+          ><a
+            href="https://www.samsung.com/br/"
+            title="clique aqui e confira"
+            target="_blank"
+            >Samsung</a
+          ></u
+        >
+      </li>
+      <li>
+        <u
+          ><a
+            href="https://www.mi.com/br/"
+            title="clique aqui e confira"
+            target="_blank"
+            >Xiaomi</a
+          ></u
+        >
+      </li>
+    </ol>
+    <h2>
+      <mark><strong>Projeto de Código</strong></mark>
+    </h2>
+    <p>
+      Plataforma utilizadas como Visual Studio Code, Swift por exemplo, são
+      utilizadsa para colocar em prática todo projeto planejado e visualizar em
+      quanto o mesmo é arquitetado!
+    </p>
+    <blockquote>
+      Criação de website, jogos, entre outras funcionalidades na web,
+      ferramentas usadas para testar o aprendizado passado até o presente,
+      <abbr titule="visual studio code">VSCode</abbr> muito utilizado no
+      aprendizado do momento, fará com que o conteúdo seja fixado pelo aluno.
+    </blockquote>
+    <h3>
+      <mark><strong>Apple</strong></mark>
+    </h3>
+    <p>
+      Fundada por Steve Jobs, Steve Ozniak e Ronald Wayne em 1976 veio
+      revolucionando as industrias como da música, telefone,
+      computadores<sup>*</sup>, tablets.
+    </p>
+    <p>
+      Em 2001, Steve Jobs, após seu retorno a Apple, se preparou para mostrar ao
+      mundo o device que iria modificar por completo a forma em que vinha se
+      ouvindo música, com a promessa de colocar mil músicas no bolso das
+      pessoas, Steve Jobs apresentou no dia 23 de Outubro de 2001 ao mundo o
+      primeiro iPod.
+    </p>
+    <p>
+      Alguns anos depois, mas especificamente 2007, Steve sobe no palco mais uma
+      vez para movimentar mais uma industria mundial, dessa vez a de aparelhos
+      celulares, dizendo que não tem a necessidade de "botões" em forma de
+      teclado e que são feios, trouxe a junção de 3 setores em que hoje
+      conhecemos como essênciais para o dia a dia, juntou o iPod (música/vídeo),
+      Ligação e Comunicador de Internet, tudo em um simples aparelho de 3,6
+      polegadas chamado de iPhone!
+    </p>
+    <p>
+      Depois de três anos a frente, em 2010, Steve Jobs apresenta ao mundo o
+      iPad, revolucionando mais uma vez uma industria e abrindo os olhos do
+      mundo para uma nova tecnologia como se fosse um computador, porém sem
+      teclado e com tela sensível ao toque.
+    </p>
+    <p style="font-family: 'Courier New'">
+      <small
+        ><sup>*</sup> Anos antes do primeiro iPod, a Apple começou com
+        computadores, primeiro placas, depois sofisticando cada vez mais seus
+        produtos até a criação do mouse, Apple II, Lisa, Machintosh e já na
+        atualidade as linhas de iMac, Macbooks, Mac Mini, Mac Pro.</small
+      >
+    </p>
+    <hr />
+    <blockquote>
+      <strong><i>"Stay Hungry, Stay Foolish" - Steve Jobs</i></strong>
+    </blockquote>
+    <hr />
+    <h3>
+      <mark><strong>Microsoft</strong></mark>
+    </h3>
+    <p>
+      Empresa de fundada por Bill Gates e Paul Alen, A Microsoft se tornou uma
+      das maioers empresas de tecnologia por anos e anos, com o sistema
+      operacional Windows sendo o carro chefe da empresa junto do seguimento de
+      games com o Xbox e os jogos exclusivos para a plataforma conjunta windows
+      + xbox.
+    </p>
+    <h4>
+      <mark><strong>Samsung</strong></mark>
+    </h4>
+    <p>
+      Empresa sul-coreana, fundada pelo Lee Byung-chull em 1969, atuando em
+      diversos setores da tecnologia, desde ventiladores, lava louças, máquinas
+      de lavar até laptops, celulares, tables, televisão e a pesar de ter tantos
+      setores de atuação atualmente a Samsung tem como carro-chefe da empresa a
+      linha Galaxy Z Flip e Z Fold.
+    </p>
+    <mark><strong>Xiaomi</strong></mark>
+    <p>
+      Empresa chinesa Xiaomi, fundada em 2010 pelos Lei Jun, Lin Bin, Zhou
+      Guangping, Wanqiang Li, Huang Jiangji, Hong Feng, Liu De, Wang Chuan, tem
+      seu mercado fasto, indo desde patinete elétrico, ferramenta elétrica até
+      smartphone, tablets, televisão e relogios inteligentes, atualmente sua
+      maior "adversária" diretamente em vários dos setores de atuação é Samsung
+      por ter um vasto mercado atuante assim como a Xiaomi.
+    </p>
+    <p>
+      Samsung é <del><sub>melhor</sub></del> <ins>pior</ins> por ter smartphone
+      dobravél.
+    </p>
+  </body>
+</html>
